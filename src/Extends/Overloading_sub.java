@@ -4,6 +4,7 @@ class Overloading_super{
 	int num1=0, num2;
 	String name;
 	
+	
 	public void x() {
 		System.out.println("super클래스 메소드 ==> 매개변수 0개");
 	}
